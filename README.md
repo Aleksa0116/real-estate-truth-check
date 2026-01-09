@@ -1,5 +1,9 @@
 # 🏢 Real Estate Truth Check
 
+![Project Status](https://img.shields.io/badge/Status-MVP-success)
+![Tech Stack](https://img.shields.io/badge/Stack-Full%20Stack-blue)
+![AI Power](https://img.shields.io/badge/AI-Google%20Gemini-orange)
+
 **Real Estate Truth Check** je inteligentna web aplikacija dizajnirana da demistifikuje tržište nekretnina. Koristeći napredne AI modele (Google Gemini), aplikacija analizira oglase za stanove, "čita između redova", detektuje skrivene mane i računa "Truth Score" (ocenu iskrenosti) za svaki oglas.
 
 Ovo nije samo scraper – ovo je **AI konsultant** koji štiti kupca od manipulativnog marketinga.
